@@ -1,0 +1,27 @@
+{
+  "version": "2026-07-23-v3.8-adverbs",
+  "status": "frozen",
+  "source": {
+    "mozc_repository": "google/mozc",
+    "mozc_commit": "416af15bc4045567e7538c4692ba554ea74f7afe",
+    "japanese_wordnet": "1.1 (existing approved generated definitions reused only on matching surface)"
+  },
+  "counts": {
+    "playable": 4301,
+    "prohibited": 115,
+    "real-but-out-of-scope": 22202,
+    "unknown": "implicit-not-enumerable"
+  },
+  "playable_graph_words": 4301,
+  "common_endpoint_words": 1200,
+  "problems": 400,
+  "requires_user_decision": 0,
+  "sha256": {
+    "words3.json": "9150c8e7787e39ca588851f41657459668ff992e6f584270cdab9ba4f2226035",
+    "common3.json": "7121e0bce40346728cd75560d8137a46854c98960865ea38486314a03c755160",
+    "problems.json": "35db0e73d9a92e3d638d788f4a3065bd5171927e2405997d3ca36dec72d106fa",
+    "accept3.json": "123754f6793a78309c021f227158bc4e169b47d49bb6c2dfe2806e8187f1cfac",
+    "definitions3.json": "4bdd6529f6ec5f59daf24b73474cbaf1aa654b54dd9d43997a8af240fdc227e1",
+    "classifications3.json": "ab8b5f333f1cf407691bd766e6e4392b11df12cc99386e554439a45503ee99d0"
+  }
+}
